@@ -11,4 +11,3 @@ Installers:
   - Arch: x86
     Url: https://dldir1.qq.com/qqtv/TencentVideo10.35.1044.0.exe
     Sha256: C059BE2963E198126B671965AF3C81D86C76D51163182DBDFF64ECCB3FE725A8
-    InstallerType: nullsoft
